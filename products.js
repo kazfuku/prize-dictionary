@@ -40,7 +40,7 @@ const products = [
     { "number": 38, "uuid": "416dd53a-5fb9-4f24-8e0a-1d10e530c9e9", "name": "44Ob44OD44OI44GC44Ga44GN", "rank": "A" },
     { "number": 39, "uuid": "2afae6e9-a12d-4f72-adb9-5fab87baf80c", "name": "44Kw44Of", "rank": "C" },
     { "number": 40, "uuid": "03a685f3-6650-46be-967e-d5650b02dd12", "name": "44GG44G+44GE5qOS77yI44K144Op44OA77yJ", "rank": "D" },
-    { "number": 41, "uuid": "5d9ca9ef-a147-4fc2-acb5-634203286008", "name": "44Kt44Oj44OD44OX6LO85YWl", "rank": "B" },
+    { "number": 41, "uuid": "5d9ca9ef-a147-4fc2-acb5-634203286008", "name": "44OX44Oq44OD44OE5peo44K144Op44OA", "rank": "B" },
     { "number": 42, "uuid": "b4886c68-1979-490b-9748-cdaf227e9fa4", "name": "44Gf44G544Gj44GT5rC05peP6aSo", "rank": "C" },
     { "number": 43, "uuid": "90b3c5dd-c823-4ec2-ac7b-eaf974affbe9", "name": "44GG44G+44GE5qOS77yI44KB44KT44Gf44GE77yJ", "rank": "D" },
     { "number": 44, "uuid": "2a284b52-b7dd-428e-b680-67a601dc9859", "name": "44Gf44G544Gj44GT5rC05peP6aSo", "rank": "C" },
